@@ -1,0 +1,11 @@
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\bin\Debug\netcoreapp2.1\Bonus-16.deps.json
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\bin\Debug\netcoreapp2.1\Bonus-16.runtimeconfig.json
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\bin\Debug\netcoreapp2.1\Bonus-16.runtimeconfig.dev.json
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\bin\Debug\netcoreapp2.1\Bonus-16.dll
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\bin\Debug\netcoreapp2.1\Bonus-16.pdb
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\obj\Debug\netcoreapp2.1\Bonus-16.csprojAssemblyReference.cache
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\obj\Debug\netcoreapp2.1\Bonus-16.csproj.CoreCompileInputs.cache
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\obj\Debug\netcoreapp2.1\Bonus-16.AssemblyInfoInputs.cache
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\obj\Debug\netcoreapp2.1\Bonus-16.AssemblyInfo.cs
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\obj\Debug\netcoreapp2.1\Bonus-16.dll
+C:\Users\maril\source\repos\Bonus-16\Bonus-16\obj\Debug\netcoreapp2.1\Bonus-16.pdb
